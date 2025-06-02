@@ -1,0 +1,14 @@
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.AssemblyInfo.cs
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\bin\Debug\net8.0\Aula 06.exe
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\bin\Debug\net8.0\Aula 06.deps.json
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\bin\Debug\net8.0\Aula 06.runtimeconfig.json
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\bin\Debug\net8.0\Aula 06.dll
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\bin\Debug\net8.0\Aula 06.pdb
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.dll
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\refint\Aula 06.dll
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.pdb
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\Aula 06.genruntimeconfig.cache
+C:\Users\daniel.ferreira\source\repos\Curso de C#\Aula 06\obj\Debug\net8.0\ref\Aula 06.dll
