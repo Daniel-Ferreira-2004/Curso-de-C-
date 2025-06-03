@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 10\\Aula 10.csproj": {}
+    "C:\\Users\\daniel.ferreira\\Documents\\GitHub\\C#\\Curso de C#\\Aula 10\\Aula 10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 10\\Aula 10.csproj": {
+    "C:\\Users\\daniel.ferreira\\Documents\\GitHub\\C#\\Curso de C#\\Aula 10\\Aula 10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 10\\Aula 10.csproj",
+        "projectUniqueName": "C:\\Users\\daniel.ferreira\\Documents\\GitHub\\C#\\Curso de C#\\Aula 10\\Aula 10.csproj",
         "projectName": "Aula 10",
-        "projectPath": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 10\\Aula 10.csproj",
+        "projectPath": "C:\\Users\\daniel.ferreira\\Documents\\GitHub\\C#\\Curso de C#\\Aula 10\\Aula 10.csproj",
         "packagesPath": "C:\\Users\\daniel.ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 10\\obj\\",
+        "outputPath": "C:\\Users\\daniel.ferreira\\Documents\\GitHub\\C#\\Curso de C#\\Aula 10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

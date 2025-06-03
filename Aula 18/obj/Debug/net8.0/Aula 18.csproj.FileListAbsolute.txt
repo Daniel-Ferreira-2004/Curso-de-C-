@@ -1,0 +1,15 @@
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\bin\Debug\net8.0\Aula 18.exe
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\bin\Debug\net8.0\Aula 18.deps.json
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\bin\Debug\net8.0\Aula 18.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\bin\Debug\net8.0\Aula 18.dll
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\bin\Debug\net8.0\Aula 18.pdb
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.sourcelink.json
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.dll
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\refint\Aula 18.dll
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.pdb
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\Aula 18.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\GitHub\C#\Curso de C#\Aula 18\obj\Debug\net8.0\ref\Aula 18.dll
