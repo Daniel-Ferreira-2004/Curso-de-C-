@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daniel.ferreira\\Documents\\repos\\Curso de C#\\Aula 06\\Aula 06.csproj",
+      "projectUniqueName": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 06\\Aula 06.csproj",
       "projectName": "Aula 06",
-      "projectPath": "C:\\Users\\daniel.ferreira\\Documents\\repos\\Curso de C#\\Aula 06\\Aula 06.csproj",
+      "projectPath": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 06\\Aula 06.csproj",
       "packagesPath": "C:\\Users\\daniel.ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daniel.ferreira\\Documents\\repos\\Curso de C#\\Aula 06\\obj\\",
+      "outputPath": "C:\\Users\\daniel.ferreira\\Documents\\repos - Copia\\Curso de C#\\Aula 06\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
