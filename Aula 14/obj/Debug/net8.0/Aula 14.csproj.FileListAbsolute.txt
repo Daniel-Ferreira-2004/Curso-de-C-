@@ -1,0 +1,15 @@
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\bin\Debug\net8.0\Aula 14.exe
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\bin\Debug\net8.0\Aula 14.deps.json
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\bin\Debug\net8.0\Aula 14.runtimeconfig.json
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\bin\Debug\net8.0\Aula 14.dll
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\bin\Debug\net8.0\Aula 14.pdb
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.AssemblyInfoInputs.cache
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.AssemblyInfo.cs
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.csproj.CoreCompileInputs.cache
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.sourcelink.json
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.dll
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\refint\Aula 14.dll
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.pdb
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\Aula 14.genruntimeconfig.cache
+C:\Users\daniel.ferreira\Documents\repos\Curso de C#\Aula 14\obj\Debug\net8.0\ref\Aula 14.dll
